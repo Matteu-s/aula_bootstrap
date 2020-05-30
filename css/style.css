@@ -1,0 +1,24 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: coral;
+}
+
+.quem-somos{
+    background-color: rgb(58, 128, 0);
+}
+
+.margin{
+    /*parecido com o margin-top, mas aumenta de dentro para fora
+    nao o contrario.*/
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.imgquemsomos{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
